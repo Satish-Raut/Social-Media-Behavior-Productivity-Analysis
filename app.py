@@ -102,7 +102,7 @@ menu = st.sidebar.radio(
 # 🏠 HOME
 # ======================================================
 if menu == "🏠 Home":
-    st.title("📱 Social Media Behavior & Productivity Analysis")
+    st.title("📱 Social Media Behaviour & Productivity Analysis")
 
     st.markdown("""
     This dashboard analyzes how **social media habits** affect  
